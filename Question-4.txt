@@ -1,0 +1,17 @@
+1. You wanted to run a bat file on a specific date and time. ( say wanted to run calculator) 
+2. create a python program that will run on a specific date and time ( but don't use the default scheduler)
+
+Hint : 
+datetime function. use
+target datetime - datetime =0 then execute
+
+There are many ways .... google it please
+
+N.B: without putting the file in the default scheduler you cannot succeed
+Link:
+
+https://janakiev.com/blog/python-background/
+
+https://stackoverflow.com/questions/32808730/running-python-script-as-a-windows-background-process
+
+https://stackoverflow.com/questions/9705982/pythonw-exe-or-python-exe
